@@ -32,13 +32,13 @@
       "repeat-delay": 120,
       "messages": [
         "Have FUN!!!",
-        "Nếu có mod hay muốn thêm vào server hay xuất hiện lỗi trong server, thì bạn hãy góp ý tới server cộng đồng nhé!"
+        "Nếu có mod "hay" muốn thêm vào server hay xuất hiện lỗi trong server, thì bạn hãy góp ý tới server cộng đồng nhen!"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "max-reconnect-delay": 5000
   },
   "movement": {
     "enabled": true,
