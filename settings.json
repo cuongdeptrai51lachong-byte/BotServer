@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
         "Have FUN!!!",
-        "I like to play Minecraft!"
+        "Nếu có mod hay muốn thêm vào server, thì bạn hãy góp ý tới server cộng đồng nhé!"
       ]
     },
     "chat-log": true,
